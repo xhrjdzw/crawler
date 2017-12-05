@@ -4,5 +4,5 @@
  */
 public class test
 {
-
+private static final Logger LOGGER = LoggerFactory.getLogger(test.class);
 }
